@@ -13,10 +13,13 @@ Each person should also be associated with ownership of a code repository in our
   -Complete
   
 Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.
+  -DONE
   -Complete
   
 Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase, you should have read the code and attempted to run it yourself.
-  -Complete
+  - https://github.com/chintanpanchamia/sociometer/blob/master/Profiler.py 
+    - Here is another example of a big five personality test in python. This one is made of way more lines of code than the       one we first found to base ours off of. 
+    - DONE
   
 
 SPRINT 2...
