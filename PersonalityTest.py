@@ -110,5 +110,3 @@ for type in typeinfo:
     num = num + 1
 
 print("\n\nThank you for taking the Big Five Aspect Scale Personality Test.")
-
-
