@@ -59,6 +59,7 @@ traits = "\n\nYou will receive information about your position along each of the
 
 
 helptext = "\n\nDescribe yourself as you generally are now, not as you wish to be in the future.\nDescribe yourself as you honestly see yourself, in relation to other people you know of the same sex as you are, and roughly your same age.\nSo that you can describe yourself in an honest manner, your responses will be kept in absolute confidence.\n\nIndicate for each statement which answer best fits as a description of you:\n1. Very Inaccurate\n2. Moderately Inaccurate\n3. Neither Accurate Nor Inaccurate\n4. Moderately Accurate\n5. Very Accurate\n\nOnce you have submitted your answer, you will be asked to type 'y' (or 'Y') to confirm it."
+
 answerdescriptions = [
     "Strongly Disagree",
     "Somewhat Disagree",
@@ -103,7 +104,7 @@ for questiondata in assessment:
             print(helptext + "\n\nPlease continue by typing a number 1-5... \n")
         else:
             print("\nYou must answer the question with a number 1-5. Type 'help' for information!")
-typeinfo = ["Extraversion","Agreeableness","Conscientiousness","Emotional Stability","Intellect/Imagination"]
+typeinfo = ["Extraversion (Enthusiasm & Assertiveness)","Agreeableness (Compassion & Politeness)","Conscientiousness (Orderliness & Industriousness)","Neuroticism (Withdrawal & Volatility)","Openess to Experience (Openness & Intellect)"]
 num = 0
 for type in typeinfo:
     print(type + ": " + str(typeScores[num]))
