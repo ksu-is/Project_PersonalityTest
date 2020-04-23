@@ -23,12 +23,12 @@ assessment = [
     {"question":"Start conversations.", "type":1, "math":"+"},
     {"question":"Am not interested in other people's problems?", "type":2, "math":"-"},
     {"question":"Get chores done right away.", "type":3, "math":"+"},
-    {"question":"Am easily disturbed.", "type":4, "math":"="},
+    {"question":"Am easily disturbed.", "type":4, "math":"+"},
     {"question":"Have excellent ideas.", "type":5, "math":"+"},
     {"question":"Have little to say.", "type":1, "math":"-"},
     {"question":"Have a soft heart.", "type":2, "math":"+"},
     {"question":"Often forget to put things back in their proper place.", "type":3, "math":"-"},
-    {"question":"Get upset easily.", "type":4, "math":"+"},
+    {"question":"Rarely feel depressed.", "type":4, "math":"-"},
     {"question":"Do not have a good imagination.", "type":5, "math":"-"},
     {"question":"Talk to a lot of different people at parties.", "type":1, "math":"+"},
     {"question":"Am not really interested in others?", "type":2, "math":"-"},
@@ -38,7 +38,7 @@ assessment = [
     {"question":"Don't like to draw attention to myself.", "type":1, "math":"-"},
     {"question":"Take time out for others.", "type":2, "math":"+"},
     {"question":"Shirk my duties.", "type":3, "math":"-"},
-    {"question":"Have frequent mood swings.", "type":4, "math":"+"},
+    {"question":"Rarely lose my composure.", "type":4, "math":"-"},
     {"question":"Use difficult words.", "type":5, "math":"+"},
     {"question":"Don't mind being the center of attention.", "type":1, "math":"+"},
     {"question":"Seek conflict.", "type":2, "math":"-"},
@@ -48,7 +48,7 @@ assessment = [
     {"question":"Am quiet around strangers?", "type":1, "math":"-"},
     {"question":"Make people feel at ease.", "type":2, "math":"+"},
     {"question":"Waste time.", "type":3, "math":"-"},
-    {"question":"Often feel blue.", "type":4, "math":"+"},
+    {"question":"Am not embarrassed easily.", "type":4, "math":"-"},
     {"question":"Am full of ideas?", "type":5, "math":"+"}
 ]
 numquestions = len(assessment)
