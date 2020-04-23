@@ -47,7 +47,7 @@ assessment = [
     {"question":"Spend time reflecting on things.", "type":5, "math":"+"},
     {"question":"Am quiet around strangers?", "type":1, "math":"-"},
     {"question":"Make people feel at ease.", "type":2, "math":"+"},
-    {"question":"Am exacting in my work?", "type":3, "math":"+"},
+    {"question":"Waste time.", "type":3, "math":"-"},
     {"question":"Often feel blue.", "type":4, "math":"-"},
     {"question":"Am full of ideas?", "type":5, "math":"+"}
 ]
