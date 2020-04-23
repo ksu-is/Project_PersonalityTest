@@ -39,7 +39,7 @@ assessment = [
     {"question":"Take time out for others.", "type":2, "math":"+"},
     {"question":"Shirk my duties.", "type":3, "math":"-"},
     {"question":"Rarely lose my composure.", "type":4, "math":"-"},
-    {"question":"Use difficult words.", "type":5, "math":"+"},
+    {"question":"Avoid difficult reading material.", "type":5, "math":"-"},
     {"question":"Don't mind being the center of attention.", "type":1, "math":"+"},
     {"question":"Seek conflict.", "type":2, "math":"-"},
     {"question":"Follow a schedule.", "type":3, "math":"+"},
@@ -49,7 +49,7 @@ assessment = [
     {"question":"Make people feel at ease.", "type":2, "math":"+"},
     {"question":"Waste time.", "type":3, "math":"-"},
     {"question":"Am not embarrassed easily.", "type":4, "math":"-"},
-    {"question":"Am full of ideas?", "type":5, "math":"+"}
+    {"question":"Seldom get lost in thought.", "type":5, "math":"-"}
 ]
 numquestions = len(assessment)
 
